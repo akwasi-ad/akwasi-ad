@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Caleb
+### Hi there 👋 I'm Caleb...
 
 🧑‍💼 I am a solution architect and DevOps professional with extensive experience in designing and implementing complex systems and applications. As a solution architect,I specialize in translating business requirements into technical solutions that meet the organization's goals and objectives.
 
