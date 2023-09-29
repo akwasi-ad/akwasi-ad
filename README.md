@@ -1,9 +1,6 @@
 ### Hi there 👋 I'm Caleb...
 
-🧑‍💼 I am a solution architect and DevOps professional with extensive experience in designing and implementing complex systems and applications. As a solution architect,I specialize in translating business requirements into technical solutions that meet the organization's goals and objectives.
-
-🚀 In my role as a DevOps professional, I help organizations automate their software development processes and streamline the deployment of their applications.
-💻 I have experience in configuring and managing CI/CD pipelines, infrastructure as code, and containerization technologies such as Docker and Kubernetes.
+🧑‍💼 I am a Technical Product Analyst and a Data Science  professional with extensive experience in designing and implementing complex systems and applications. As a Technical Product Analsyt,I specialize in translating business requirements into technical solutions that meet the organization's goals and objectives.
 
 🐱‍👤 Over the years I've designed and Implemented complex systems and applications for various  companies like stanbic bank, Anna Confidential etc. 
 
